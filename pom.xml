@@ -16,10 +16,10 @@
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2020.0.4</spring-cloud.version>
-		<sonar.projectKey>afreen-shaikk_OrdenewMS</sonar.projectKey>
-		 <sonar.organization>afreen-shaikk</sonar.organization>
+		
+ 		 <sonar.organization>afreen-shaikk</sonar.organization>
  		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>f84d1c0e77baf0babe4b528727c2e39a238f606e</sonar.login>
+		
 	</properties>
 	<dependencies>
 	<dependency>
